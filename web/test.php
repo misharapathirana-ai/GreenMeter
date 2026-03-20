@@ -1,6 +1,6 @@
 <?php
 require 'config.php';
-echo "<h2>✅ Connected to UMS database!</h2>";
+echo "<h2> Connected to UMS database!</h2>";
 
 // Test a query
 $stmt = $pdo->query("SELECT COUNT(*) AS cnt FROM Customer");
