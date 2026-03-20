@@ -12,3 +12,5 @@ A database-driven solution for Sri Lankan electricity, water, and gas providers.
 2. Copy `web/` to `htdocs/ums/`
 3. Visit `http://localhost/ums/`
 
+Made by: Mishara Pathirana 
+misharapathirana@gmail.com
